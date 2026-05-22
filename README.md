@@ -21,14 +21,12 @@ React-приложение интернет-магазина с каталого
 ## Стек технологий
 
 ### Фронтенд
-|---|---|---|
 | React |
 | Redux Toolkit |
 | React Router DOM |
 | Vite |
 
 ### Бэкенд
-|---|---|---|
 | FastAPI | 0.104 | REST API |
 | SQLAlchemy |
 | SQLite |
